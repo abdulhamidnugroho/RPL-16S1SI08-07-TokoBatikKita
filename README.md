@@ -1,6 +1,5 @@
-<hr>
 # RPL-16S1SI08-07-TokoBatikKita
-
+<hr>
 Anggota : 
 Abdul Hamid Nugroho   (16.12.9456)
 Afrizal Khoirun Najib (16.12.9459)
