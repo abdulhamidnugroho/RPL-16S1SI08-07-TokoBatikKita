@@ -9,8 +9,8 @@ Dani Saputra          (16.12.9500) <br>
 Pendi Satria Ardika   (16.12.9501)</b> <br>
 <hr>
 <a href="https://github.com/abdulhamidnugroho"><img src="https://avatars3.githubusercontent.com/u/40796875?s=64&v=4" alt="Hammid" />
-<a href="https://github.com/afrizalnajib"><img src="https://avatars2.githubusercontent.com/u/43664581?s=60&v=4" alt="Najib" />
+<a href="https://github.com/afrizalnajib">Najib</a>
 <a href="https://github.com/galangcp"><img src="https://avatars1.githubusercontent.com/u/43667188?s=60&v=4" alt="Galang" />
-<a href="https://https://github.com/pendisatria"><img src="https://avatars2.githubusercontent.com/u/43665479?s=60&v=4" alt="Pendi" />
+<a href="https://github.com/pendisatria"><img src="https://avatars2.githubusercontent.com/u/43665479?s=60&v=4" alt="Pendi" />
 <hr>
 <a href="https://i.gifer.com/3otv.gif"><img src="https://i.gifer.com/3otv.gif"></a>
