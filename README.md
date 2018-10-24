@@ -1,10 +1,10 @@
 # RPL-16S1SI08-07-TokoBatikKita
 <hr>
-Anggota : 
-Abdul Hamid Nugroho   (16.12.9456)
-Afrizal Khoirun Najib (16.12.9459)
-Galang Cahya Pangestu (16.12.9472)
-Dani Saputra          (16.12.9500)
-Pendi Satria Ardika   (16.12.9501)
+Anggota : <br> 
+Abdul Hamid Nugroho   (16.12.9456) <br>
+Afrizal Khoirun Najib (16.12.9459) <br>
+Galang Cahya Pangestu (16.12.9472) <br>
+Dani Saputra          (16.12.9500) <br>
+Pendi Satria Ardika   (16.12.9501) <br>
 
 <hr>
