@@ -8,3 +8,4 @@ Galang Cahya Pangestu (16.12.9472) <br>
 Dani Saputra          (16.12.9500) <br>
 Pendi Satria Ardika   (16.12.9501)</b> <br>
 <hr>
+<a href="https://i.gifer.com/3otv.gif"><img src="https://i.gifer.com/3otv.gif"></a>
