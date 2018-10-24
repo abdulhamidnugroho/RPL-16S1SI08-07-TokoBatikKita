@@ -1,10 +1,10 @@
 # RPL-16S1SI08-07-TokoBatikKita
+
+Anggota : <br>
 <hr>
-Anggota : <br> 
 Abdul Hamid Nugroho   (16.12.9456) <br>
 Afrizal Khoirun Najib (16.12.9459) <br>
 Galang Cahya Pangestu (16.12.9472) <br>
 Dani Saputra          (16.12.9500) <br>
 Pendi Satria Ardika   (16.12.9501) <br>
-
 <hr>
