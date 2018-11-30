@@ -1,0 +1,11 @@
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\bin\Debug\RPL.exe.config
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\bin\Debug\RPL.exe
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\bin\Debug\RPL.pdb
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\bin\Debug\RPL.xml
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.vbprojResolveAssemblyReference.cache
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.FormBarang.resources
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.Resources.resources
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.vbproj.GenerateResource.Cache
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.exe
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.xml
+D:\Perkuliahan\Tugas Kuliah Sem 5\Rekeyaya Perangkat Lunak\Afrig (2018-2019)\Final Project\Progam\RPL\RPL\obj\Debug\RPL.pdb
